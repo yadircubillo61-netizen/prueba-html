@@ -3,4 +3,4 @@
 - Estado del proyecto:En curso.
 
   ```npm install react```
-prueba hetl estado 2
+prueba html estado 2
